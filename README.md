@@ -19,33 +19,33 @@ This is a simple Pokémon battle game where players can battle Pokémon with dif
 
 1. Clone the repository:
 
-sh
+```sh
 git clone https://github.com/databhav/pokebattle.git
 
 cd project_root
-
+```
 
 2. Create a virtual environment and activate it:
 
-sh
+```sh
 python -m venv venv
 
 source venv/bin/activate # On Windows, use `venv\Scripts\activate`
-
+```
 
 3. Install the required packages:
 
-sh
+```sh
 pip install -r requirements.txt
-
+```
 
 ## Running the Game
 
 To start the game, run the following command:
 
-sh
+```sh
 python main.py
-
+```
 
 ## References
 
