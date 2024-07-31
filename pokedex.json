@@ -1,0 +1,418 @@
+{
+  "pokedex": [
+    {
+      "pokemon_name": "bulbasaur",
+      "type": "grass",
+      "info": "Bulbasaur is a small, mainly turquoise amphibian Pokémon with red eyes and a green bulb on its back. It is based on a frog/toad, with the bulb resembling a plant bulb that grows into a flower as it evolves.",
+      "attacks": [
+        {
+          "name": "Tackle",
+          "power": 15
+        },
+        {
+          "name": "Vine Whip",
+          "power": 20
+        },
+        {
+          "name": "Razor Leaf",
+          "power": 13
+        },
+        {
+          "name": "Solar Beam",
+          "power": 25
+        }
+      ]
+    },
+    {
+      "pokemon_name": "ekans",
+      "type": "poison",
+      "info": "Ekans is a small, purple snake Pokémon with yellow bands and a rattle on its tail. Its large, round eyes and forked tongue give it a classic serpent appearance. Ekans can slither silently and immobilize prey with its venomous fangs.",
+      "attacks": [
+        {
+          "name": "Bite",
+          "power": 25
+        },
+        {
+          "name": "Acid",
+          "power": 10
+        },
+        {
+          "name": "Wrap",
+          "power": 8
+        },
+        {
+          "name": "Sludge Bomb",
+          "power": 15
+        }
+      ]
+    },
+    {
+      "pokemon_name": "geodude",
+      "type": "rock",
+      "info": "Geodude is a small, round Rock/Ground Pokémon with a body made of gray stone. It has two muscular arms and a rugged face with determined eyes and a wide mouth. Geodude often floats in the air and is known for its strength and durability.",
+      "attacks": [
+        {
+          "name": "Defense Curl",
+          "power": 8
+        },
+        {
+          "name": "Tackle",
+          "power": 18
+        },
+        {
+          "name": "Rock Throw",
+          "power": 20
+        },
+        {
+          "name": "Smack Down",
+          "power": 25
+        }
+      ]
+    },
+    {
+      "pokemon_name": "psyduck",
+      "type": "water",
+      "info": "Psyduck is a yellow, duck-like Pokémon with a constant headache, which occasionally releases psychic powers. It has vacant eyes, webbed feet, and is often seen holding its head.",
+      "attacks": [
+        {
+          "name": "Water Gun",
+          "power": 20
+        },
+        {
+          "name": "Confusion",
+          "power": 25
+        },
+        {
+          "name": "Psybeam",
+          "power": 30
+        },
+        {
+          "name": "Hydro Pump",
+          "power": 40
+        }
+      ]
+    },
+    {
+      "pokemon_name": "mankey",
+      "type": "fighting",
+      "info": "Mankey is a small, round primate Pokémon with light fur, a pig-like nose, and a bad temper. It is quick to anger and can be very aggressive.",
+      "attacks": [
+        {
+          "name": "Karate Chop",
+          "power": 25
+        },
+        {
+          "name": "Low Kick",
+          "power": 20
+        },
+        {
+          "name": "Seismic Toss",
+          "power": 30
+        },
+        {
+          "name": "Cross Chop",
+          "power": 40
+        }
+      ]
+    },
+    {
+      "pokemon_name": "pikachu",
+      "type": "electric",
+      "info": "Pikachu is a small, yellow rodent Pokémon with long ears, red cheeks, and a tail shaped like a lightning bolt. It stores electricity in its cheeks and releases it in powerful bursts.",
+      "attacks": [
+        {
+          "name": "Thunder Shock",
+          "power": 20
+        },
+        {
+          "name": "Quick Attack",
+          "power": 15
+        },
+        {
+          "name": "Electro Ball",
+          "power": 25
+        },
+        {
+          "name": "Thunderbolt",
+          "power": 35
+        }
+      ]
+    },
+    {
+      "pokemon_name": "magikarp",
+      "type": "water",
+      "info": "Magikarp is a weak and feeble fish Pokémon with red scales and large, vacant eyes. It is famous for its Splash move, which does nothing, but it evolves into the powerful Gyarados.",
+      "attacks": [
+        {
+          "name": "Splash",
+          "power": 1
+        },
+        {
+          "name": "Tackle",
+          "power": 10
+        },
+        {
+          "name": "Flail",
+          "power": 15
+        },
+        {
+          "name": "Bounce",
+          "power": 20
+        }
+      ]
+    },
+    {
+      "pokemon_name": "mew",
+      "type": "psychic",
+      "info": "Mew is a small, pink, feline Pokémon with large blue eyes and a long, thin tail. It is said to contain the DNA of every Pokémon and can learn any move.",
+      "attacks": [
+        {
+          "name": "Psywave",
+          "power": 25
+        },
+        {
+          "name": "Psychic",
+          "power": 35
+        },
+        {
+          "name": "Ancient Power",
+          "power": 30
+        },
+        {
+          "name": "Metronome",
+          "power": 20
+        }
+      ]
+    },
+    {
+      "pokemon_name": "zapdos",
+      "type": "electric",
+      "info": "Zapdos is a large bird Pokémon with black and yellow plumage, sharp beak, and wings that crackle with electricity. It is one of the legendary birds and can generate powerful lightning bolts.",
+      "attacks": [
+        {
+          "name": "Thunder Shock",
+          "power": 20
+        },
+        {
+          "name": "Drill Peck",
+          "power": 25
+        },
+        {
+          "name": "Thunderbolt",
+          "power": 35
+        },
+        {
+          "name": "Zap Cannon",
+          "power": 40
+        }
+      ]
+    },
+    {
+      "pokemon_name": "eevee",
+      "type": "normal",
+      "info": "Eevee is a small, fox-like Pokémon with brown fur and a bushy tail. It has the potential to evolve into multiple different forms depending on various conditions.",
+      "attacks": [
+        {
+          "name": "Quick Attack",
+          "power": 15
+        },
+        {
+          "name": "Bite",
+          "power": 20
+        },
+        {
+          "name": "Swift",
+          "power": 25
+        },
+        {
+          "name": "Take Down",
+          "power": 30
+        }
+      ]
+    },
+    {
+      "pokemon_name": "sandshrew",
+      "type": "ground",
+      "info": "Sandshrew is a small, yellow, armadillo-like Pokémon with a hard, brick-patterned skin. It curls up into a ball to protect itself from attacks and can dig through the ground.",
+      "attacks": [
+        {
+          "name": "Scratch",
+          "power": 10
+        },
+        {
+          "name": "Sand Attack",
+          "power": 15
+        },
+        {
+          "name": "Poison Sting",
+          "power": 20
+        },
+        {
+          "name": "Dig",
+          "power": 30
+        }
+      ]
+    },
+    {
+      "pokemon_name": "jigglypuff",
+      "type": "fairy",
+      "info": "Jigglypuff is a round, pink Pokémon with large, blue eyes and a curly tuft of hair. It can inflate its body and sing a lullaby that puts its opponents to sleep.",
+      "attacks": [
+        {
+          "name": "Sing",
+          "power": 5
+        },
+        {
+          "name": "Pound",
+          "power": 15
+        },
+        {
+          "name": "Double Slap",
+          "power": 20
+        },
+        {
+          "name": "Body Slam",
+          "power": 30
+        }
+      ]
+    },
+    {
+      "pokemon_name": "vulpix",
+      "type": "fire",
+      "info": "Vulpix is a small, fox-like Pokémon with red fur and six orange tails that are said to be very warm. It can exhale fire that is capable of causing burns.",
+      "attacks": [
+        {
+          "name": "Ember",
+          "power": 20
+        },
+        {
+          "name": "Quick Attack",
+          "power": 15
+        },
+        {
+          "name": "Flame Wheel",
+          "power": 25
+        },
+        {
+          "name": "Fire Blast",
+          "power": 35
+        }
+      ]
+    },
+    {
+      "pokemon_name": "oddish",
+      "type": "grass",
+      "info": "Oddish is a small, blue plant Pokémon with green leaves sprouting from its head. It is nocturnal and buries itself in the ground during the day to absorb nutrients.",
+      "attacks": [
+        {
+          "name": "Absorb",
+          "power": 15
+        },
+        {
+          "name": "Acid",
+          "power": 20
+        },
+        {
+          "name": "Razor Leaf",
+          "power": 25
+        },
+        {
+          "name": "Solar Beam",
+          "power": 40
+        }
+      ]
+    },
+    {
+      "pokemon_name": "diglett",
+      "type": "ground",
+      "info": "Diglett is a small, brown Pokémon that looks like a mole with a large pink nose. It lives underground and comes up to the surface occasionally.",
+      "attacks": [
+        {
+          "name": "Scratch",
+          "power": 10
+        },
+        {
+          "name": "Mud-Slap",
+          "power": 15
+        },
+        {
+          "name": "Dig",
+          "power": 30
+        },
+        {
+          "name": "Earthquake",
+          "power": 40
+        }
+      ]
+    },
+    {
+      "pokemon_name": "meowth",
+      "type": "normal",
+      "info": "Meowth is a small, feline Pokémon with cream-colored fur and a coin on its forehead. It is known for its cunning and mischievous nature.",
+      "attacks": [
+        {
+          "name": "Scratch",
+          "power": 10
+        },
+        {
+          "name": "Bite",
+          "power": 20
+        },
+        {
+          "name": "Fury Swipes",
+          "power": 25
+        },
+        {
+          "name": "Slash",
+          "power": 30
+        }
+      ]
+    },
+    {
+      "pokemon_name": "growlithe",
+      "type": "fire",
+      "info": "Growlithe is a small, orange canine Pokémon with black stripes and a fluffy tail. It is loyal and brave, and it can breathe intense flames.",
+      "attacks": [
+        {
+          "name": "Ember",
+          "power": 20
+        },
+        {
+          "name": "Bite",
+          "power": 25
+        },
+        {
+          "name": "Flame Wheel",
+          "power": 30
+        },
+        {
+          "name": "Flamethrower",
+          "power": 40
+        }
+      ]
+    },
+    {
+      "pokemon_name": "magnemite",
+      "type": "electric",
+      "info": "Magnemite is a small, spherical Pokémon with a metallic body and two horseshoe magnets on its sides. It generates and manipulates electromagnetic waves to attack and float.",
+      "attacks": [
+        {
+          "name": "Thunder Shock",
+          "power": 20
+        },
+        {
+          "name": "Supersonic",
+          "power": 15
+        },
+        {
+          "name": "Spark",
+          "power": 25
+        },
+        {
+          "name": "Thunderbolt",
+          "power": 35
+        }
+      ]
+    }
+  ]
+}
